@@ -1,0 +1,1 @@
+fyne-cross linux --icon icon.png

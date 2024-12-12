@@ -1,17 +1,17 @@
 # template-helper
-* 一个支持yaml格式模板编辑和预览的gui工具，使用fyne框架开发
+* a gui tool that supports YAML format template editing and preview, developed using the fyne
 
-## 打包
+## build
 ```bash
 bash build.sh
 ```
 
-## 安装
+## install
 ```bash
 make user-install
 ```
 
-## 卸载
+## uninstall
 ```bash
 make user-uninstall
 ```
